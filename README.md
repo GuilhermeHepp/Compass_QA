@@ -1,6 +1,5 @@
-# 🎯 Repositório da Trilha de Quality Assurance - Compass UOL
+# 🎯 Repositório da Trilha de QA - Compass UOL
 
-![QA Banner](https://i.imgur.com/y29y2eA.png)
 
 ## 👤 Autor
 
