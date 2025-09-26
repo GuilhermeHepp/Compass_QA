@@ -3,7 +3,7 @@
 
 ## 👤 Autor
 
-* **[Guilherme Hepp da Fonseca]**
+* **Guilherme Hepp da Fonseca**
 * **LinkedIn:** `(https://www.linkedin.com/in/guilherme-hepp-663350208)`
 * **Email:** `ghepp.gh@gmail.com`
 
